@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#git@github.com:haweeee/opensource_assignment_sklearn.git
+#https://github.com/haweeee/opensource_scikit-learn/blob/fb2ef1720ba13342567831211618a8b1427e9e06/solution.py
 
 import sys
 import pandas as pd
